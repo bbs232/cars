@@ -52,6 +52,7 @@ body {
 }
 
 .carpichover{
+    margin: 10px;
     display: inline-block;
     width: 33%;
 }
