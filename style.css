@@ -1,0 +1,181 @@
+body {
+    background-color: black;
+}
+
+
+  
+.byby {
+    width:300px;
+    margin: auto;
+    background-image: url("images/2020-Audi-RSQ8-004-performanc-intro_4000xfull.jpg");
+    width: 100%;
+    height: 700px;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+#myh{
+    color: white;
+    padding: 35px;
+    text-align: center;
+}
+
+#specsStyle{
+    padding: 30px;
+    color: white;
+}
+
+.wsection{
+    background-color: white;
+    margin: 25px;
+}
+
+.ulditail{
+    color: white;
+    margin-left: 15px;
+}
+
+.a_toframe{
+    color: brown;
+}
+
+#wowwwww{
+    margin: 0px;
+}
+
+.carpic{
+    background-color: black;
+    padding: 15px;
+    margin: 0px;
+
+}
+
+.carpichover{
+    display: inline-block;
+    width: 33%;
+}
+
+.carpichover:hover{
+    transition: .5s ease;
+    opacity: 0.3;
+}
+
+.mytableimg img{
+    width: 125px;
+}
+
+.mytablemarge{
+    margin: 50px;
+}
+
+.myform input{
+    margin: 5px;
+}
+svg {
+    color: rgb(255, 255, 255);
+    margin-bottom: 0px;
+    margin-right: 4%;
+}
+#navul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border: 1px solid white;
+    border-radius: 5px;
+  }
+  
+  #navil {
+    float: left;
+  }
+  
+  #navil a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  #navil a:hover {
+    background-color: #111;
+  }
+
+.mybio{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    margin: 0px;
+}
+.bioin{
+    width: 33%;
+    float: left;
+    text-align: center;
+    margin-top: 15px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.bioin p{
+}
+
+
+.myT3col{
+    margin: 15px;
+}
+/* Create three equal columns that floats next to each other */
+.column {
+  }
+
+  #col1{
+      width: 25%;
+    float: left;
+  }
+
+  #col2{
+    width: 50%;
+    float: left;
+
+}
+#col3{
+    width: 25%;
+    float: left;
+
+}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+  @media screen and (max-width:600px) {
+    .column {
+      width: 100%;
+    }
+  }
+
+  .manuVisual{
+      color: white;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  .manuVisual a:link, .manuVisual a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 1px solid white;
+    margin-top: 5px;
+  }
+  
+  .manuVisual a:hover, .manuVisual a:active {
+    background-color: red;
+  }
+
