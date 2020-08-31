@@ -441,7 +441,9 @@ ul.social-footer2 li a {
     min-width: 440px;
   }
 
-
+  #myFOUND {
+    width: 370px;
+  }
 
 .bioin{
   width: 100%;
