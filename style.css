@@ -427,48 +427,6 @@ ul.social-footer2 li a {
   width: 400px; height: 400px; background-color: black; margin-bottom: 40px; border: 2px solid white; border-radius: 15px;
 }
 
-@media only screen and (max-width:500px) {
-  /* For mobile phones: */
-  #specsStyle {
-    padding-top: 150px;
-  }
-
-  .carpichover{
-    width: 100%;
-  }
-
-  nav{
-    min-width: 440px;
-  }
-
-  #btninfo #myFOUND {
-    width: 330px;
-  }
-
-.bioin{
-  width: 100%;
-}
-
-#col1 {
-  width: 100%;
-}
-.carousel-item img{
-  height: auto;
-  width: 100%;
-}
-
-.mybio{
-  height: 400px;
-}
-#myabout{
-  width: 100%; margin:2px; height: 570px;
-}
-
-.byby{
-  height: 1100px;
-}
-
-}
 
 
 /* calculator */
@@ -509,4 +467,49 @@ input.calc {
     background-color: black;
     margin-bottom: 40px;
     border: 2px solid white;
+}
+
+
+@media only screen and (max-width:500px) {
+  /* For mobile phones: */
+  #specsStyle {
+    padding-top: 150px;
+  }
+
+  .carpichover{
+    width: 100%;
+  }
+
+  nav{
+    min-width: 440px;
+  }
+
+  #myFOUND {
+    width: 330px;
+  }
+
+
+.bioin{
+  width: 100%;
+}
+
+#col1 {
+  width: 100%;
+}
+.carousel-item img{
+  height: auto;
+  width: 100%;
+}
+
+.mybio{
+  height: 400px;
+}
+#myabout{
+  width: 100%; margin:2px; height: 570px;
+}
+
+.byby{
+  height: 1100px;
+}
+
 }
